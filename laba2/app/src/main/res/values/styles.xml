@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextViewStyle">
+        <item name="android:layout_width">"match_parent"</item>
+        <item name="android:layout_height">"0dp"</item>
+        <item name="android:padding">"@dimen/padding"</item>
+        <item name="android:layout_margin">"@dimen/margin"</item>
+        <item name="android:textSize">"@dimen/textSize"</item>
+        <item name="android:layout_weight">"2"</item>
+    </style>
+    <style name="ButtonStyle">
+        <item name="android:layout_width">"match_parent"</item>
+        <item name="android:layout_height">"0dp"</item>
+        <item name="android:padding">"@dimen/padding"</item>
+        <item name="android:layout_margin">"@dimen/margin"</item>
+        <item name="android:textSize">"@dimen/textSize"</item>
+        <item name="android:background">"@dimen/button_bg"</item>
+        <item name="android:layout_weight">"1"</item>
+    </style>
+</resources>
