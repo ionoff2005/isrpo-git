@@ -10,6 +10,6 @@
     <color name="text_view_bg">#FFFBCC</color>
     <color name="font">#2A2919</color>
     <color name="bg">#F8EF85</color>
-    <color name="button_bg">#434024</color>
-    <color name="button_font">#FFFBCC</color>
+    <color name="button_bg">#000000</color>
+    <color name="button_font">#FFFFFF</color>
 </resources>
